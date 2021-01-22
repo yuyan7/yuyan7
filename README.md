@@ -5,8 +5,9 @@ Hello, I'm yuyan7.
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  19,560 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 3,666 tasks so far           
+🏆  19,584 Karma Points           
+🌸  Completed 14 tasks today           
+🗓  Completed 58 tasks this week           
+✅  Completed 3,680 tasks so far           
 ⏳  Longest streak is 121 days
 <!-- TODO-IST:END -->
