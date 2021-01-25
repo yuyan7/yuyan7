@@ -6,8 +6,8 @@ Hello, I'm yuyan7.
 
 <!-- TODO-IST:START -->
 🏆  19,661 Karma Points           
-🌸  Completed 6 tasks today           
-🗓  Completed 6 tasks this week           
-✅  Completed 3,699 tasks so far           
+🌸  Completed 0 tasks today           
+🗓  Completed 9 tasks this week           
+✅  Completed 3,702 tasks so far           
 ⏳  Longest streak is 121 days
 <!-- TODO-IST:END -->
