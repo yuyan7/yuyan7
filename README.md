@@ -70,7 +70,6 @@ I live in Okinawa, Japan.
 
 * Docker
 * Git
-* Kubernetes
 * Network(e.g. design, VPN etc...)
 * Security(e.g. Hydra, nmap etc...)
 
